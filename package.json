@@ -1,0 +1,32 @@
+{
+  "name": "projetoppim3avatividade",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para aula ao vivo número 3",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acvelasco/ProjetoPPIM3AVAtividade.git"
+  },
+  "keywords": [
+    "POST",
+    "HTTP",
+    "Validação",
+    "Servidor"
+  ],
+  "author": "Any Carolina Carvalho Velasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acvelasco/ProjetoPPIM3AVAtividade/issues"
+  },
+  "homepage": "https://github.com/acvelasco/ProjetoPPIM3AVAtividade#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  }
+}
